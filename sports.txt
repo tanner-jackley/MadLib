@@ -1,0 +1,14 @@
+There are {number} sports you can choose to {verb} after
+school. You can put on a helmet and {plural_noun} and play
+on the football team. Or pick up a/an {noun} and {verb}
+balls over the net as a member of the tennis team. Or
+"bend it like {celebrity}" as a/an {noun} on the soccer
+team. But don't {verb}! If a/an {adjective} sport is more
+your style, there are plenty of {plural_noun} to choose 
+from. If you feel {adjective} in the water, you could try
+{verb_(past_tense)} swimming. Or if you want to try 
+riding a/an {verb_(-ing)} bronco, go out for the rodeo 
+team! Or give {adjective} Frisbee a try. Over {number} 
+students {verb} this sport. And of course, there's always
+{person_in_the_room}'s favorite sport: pickleball. You just
+need to make sure you have a paddle and a positive {noun}!
